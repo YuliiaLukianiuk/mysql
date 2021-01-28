@@ -1,0 +1,1 @@
+INSERT INTO products VALUES ('26','outlet','50','22','10');
